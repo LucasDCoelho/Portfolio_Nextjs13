@@ -9,10 +9,10 @@ export default function Home() {
         className="flex justify-around items-center h-16 border-b-2 border-slate-800 dark:border-slate-200 shadow shadow-slate-800 dark:shadow-slate-200"
 
       >
-        <img
+        {/* <Image
           className="text-zinc-800 dark:text-zinc-50 text-2xl font-bold"
           src={LOGO_iCON_URL}
-        />
+        /> */}
 
         <nav>
           <ul className="flex gap-8">
@@ -32,11 +32,11 @@ export default function Home() {
             <p className="dark:text-zinc-50 tracking-widest">I'm Full Stack Developer and Mobile</p>
           </div>
           <figure>
-            <img
+            {/* <img
               src="https://avatars.githubusercontent.com/u/94465173?v=4"
               alt="My picture"
               className="rounded-full border-4 border-zinc-800 dark:border-zinc-50"
-            />
+            /> */}
           </figure>
         </section>
 
@@ -47,11 +47,11 @@ export default function Home() {
 
           <div className="flex w-full border">
             <figure>
-              <img
+              {/* <img
                 src="https://media.licdn.com/dms/image/D4D22AQFuAhr5OEkEvQ/feedshare-shrink_2048_1536/0/1690200667719?e=1693440000&v=beta&t=8N2oq4gcCFxYgqrmNEkvqgFw4aHlYOsAdAGadMLk1Sk"
                 alt="Oii"
                 className="w-[40rem]"
-              />
+              /> */}
             </figure>
           </div>
 
