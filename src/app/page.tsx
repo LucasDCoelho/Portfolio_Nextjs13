@@ -29,7 +29,7 @@ export default function Home() {
         <section className="flex-1 flex h-full items-center justify-around gap-48">
           <div>
             <h2 className="text-6xl font-extrabold dark:text-zinc-50">Hello World</h2>
-            <p className="dark:text-zinc-50 tracking-widest">I'm Full Stack Developer and Mobile</p>
+            <p className="dark:text-zinc-50 tracking-widest">I am Full Stack Developer and Mobile</p>
           </div>
           <figure>
             {/* <img
@@ -40,7 +40,7 @@ export default function Home() {
           </figure>
         </section>
 
-        <section className="h-full bg-zinc-300 dark:bg-zinc-900 flex flex-col items-center justify-center ">
+        <section className="h-full bg-zinc-300 dark:bg-zinc-900 flex flex-col items-center justify-center">
           <div>
             <h2 className="text-5xl font-bold border-zinc-800 dark:text-zinc-50">About</h2>
           </div>
