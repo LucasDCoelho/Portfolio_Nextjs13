@@ -1,0 +1,1 @@
+export const LOGO_iCON_URL = "@/assets/1.png"
